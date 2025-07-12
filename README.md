@@ -1,9 +1,9 @@
 # Spring Boot Projects Collection
 ## 📘 `spring-rest-api`
 A minimal Spring Boot project built with **Spring Web** and **Lombok**. This application handles HTTP requests from Postman and performs basic CRUD (Create, Read, Update, Delete) operations on an in-memory `ArrayList`, simulating a lightweight RESTful API without a database.
----
-## 🗃️ `spring-data-jpa`
-This project expands on the previous one by adding **Spring Data JPA** and **PostgreSQL** to enable persistence using **Hibernate ORM**. It demonstrates:
+
+##  🗃️ `spring-data-jpa`
+ This project expands on the previous one by adding **Spring Data JPA** and **PostgreSQL** to enable persistence using **Hibernate ORM**. It demonstrates:
 - Full CRUD operations on a `Employee` entity
 - Use of DTOs and the `@Query` annotation
 - Input validation with **Spring Validation**
